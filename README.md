@@ -1,7 +1,3 @@
-# Application Next.js - API Auth
-
-Ce projet est une application Next.js qui fournit des routes API pour gérer l'authentification des utilisateurs (inscription, connexion et déconnexion).
-
 ## Prérequis
 
 Avant de démarrer l'application, assurez-vous que vous avez les outils suivants installés sur votre machine :
