@@ -19,3 +19,13 @@ export async function GET(req, { params }) {
         return new Response(JSON.stringify({ message: 'Erreur lors de la récupération de l\'hébergement.', error: error.message }), { status: 500 });
     }
 }
+
+// todo : update and delete
+
+export async function PUT(req, { params }) {
+
+}
+
+export async function DELETE(req, { params }) {
+    
+}
